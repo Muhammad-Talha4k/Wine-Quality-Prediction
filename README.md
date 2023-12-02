@@ -18,6 +18,13 @@ You can install them using pip:
 ```bash
 pip install pandas numpy xgboost sklearn matplotlib seaborn
 ```
+To run the project, you can use the following command:
+
+1. After installing the dependencies, you can clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/Muhammad-Talha4k/Wine-Quality-Prediction.git
+
+This notebook contain the code and explanation of the task.
 
 ## Results
 
