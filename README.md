@@ -1,4 +1,4 @@
-# Wine Quality Prediction
+# Wine Quality Prediction using Xgboost Classifier
 
 This project aims to predict the quality of red wine using Xgboost Classifier based on various physicochemical properties such as acidity, alcohol, sulphates, etc. The dataset used for this project is the [Wine Quality dataset], which contains 1599 records of red wine samples, with 11 input features and 1 output variable that ranges from 0 (very bad) to 10 (very good).
 
